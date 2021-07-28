@@ -1,0 +1,33 @@
+body{
+	background-color: slategrey;
+}
+
+h1{
+	font-size: 30px;
+	color: deepskyblue;
+}
+
+h2{
+	color: rebeccapurple;
+	font-size: 20px;
+}	
+
+h2{
+	color: burlywood;
+}
+
+.big{
+	font-size: 60px;
+}
+
+.uppercase{
+	text-transform: uppercase;
+}
+
+.big.uppercase{
+	color: darkorange;
+}
+
+h1 span{
+	color: hotpink;
+}
